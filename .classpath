@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/jmcouillard/Productions/10 - Java/libs/processing/core.jar"/>
+	<classpathentry kind="lib" path="lib/websocketP5.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Stage"/>
+	<classpathentry kind="lib" path="/Users/jmcouillard/Productions/11 - Processing/libraries/websocketP5/library/websocketP5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
